@@ -25,3 +25,5 @@ Komut	Açıklama
 /do	Çevrede olan bir durumu belirtir
 
 /ooc	Out of character mesaj gönderir
+
+![image](https://github.com/user-attachments/assets/7bbac923-b88c-44c8-a099-5688cf24a47b)
